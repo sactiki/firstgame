@@ -1,0 +1,20 @@
+.righthidden{
+    display:none;
+}
+.buttclass{
+    display:none;
+}
+.ferrisclass{
+    display:none;
+}
+.linkclass{
+    display:none;
+}
+#buttid{
+    border: 2px solid black;
+    width:95;
+    background-color:yellow;
+}
+#fwi{
+    width:100px;
+}
